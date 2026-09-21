@@ -59,8 +59,8 @@ No me quedo solo en el código: hablo con el negocio, diseño el flujo, integro 
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pimpledmikey&show_icons=true&hide_border=true&bg_color=1C1917&title_color=FB923C&icon_color=FDBA74&text_color=FED7AA&ring_color=EA580C&count_private=true" height="168" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&hide_border=true&bg_color=1C1917&title_color=FB923C&text_color=FED7AA&langs_count=6" height="168" alt="langs" />
+  <img src="https://stats-github-readme.vercel.app/api?username=pimpledmikey&show_icons=true&hide_border=true&bg_color=1C1917&title_color=FB923C&icon_color=FDBA74&text_color=FED7AA&ring_color=EA580C&count_private=true" height="168" alt="GitHub stats" />
+  <img src="https://stats-github-readme.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&hide_border=true&bg_color=1C1917&title_color=FB923C&text_color=FED7AA&langs_count=6" height="168" alt="Top languages" />
 </div>
 
 <div align="center">
