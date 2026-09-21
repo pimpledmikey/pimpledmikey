@@ -1,133 +1,102 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=240&section=header&text=Miguel%20Angel%20Avila%20Requena&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Software%20Engineer%20%7C%20IA%20Aplicada%20%7C%20Cloud%20%7C%20Quer%C3%A9taro&descAlignY=56&descSize=15&animation=fadeIn" width="100%" alt="header" />
-</div>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:0E7490,70:4F46E5,100:7C3AED&height=200&section=header&text=Miguel%20Angel%20Avila%20Requena&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=Full%20Stack%20%7C%20IA%20aplicada%20%7C%20Cloud%20%7C%20Quer%C3%A9taro%2C%20MX&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
-<div align="center">
   <a href="https://github.com/pimpledmikey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=800&color=818CF8&center=true&vCenter=true&multiline=true&width=780&height=70&lines=Full+Stack+Software+Engineer;React+%2B+Next.js+%2B+Flutter+%2B+Node+%2B+Python;IA+aplicada+%C2%B7+AWS+%C2%B7+Docker+%C2%B7+Sistemas+empresariales" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=Construyo+sistemas+que+la+gente+usa+todos+los+d%C3%ADas;React+%2B+Flutter+%2B+Node+%2B+Python+%2B+AWS;De+la+idea+a+producci%C3%B3n+%E2%80%94+con+IA+cuando+suma" alt="typing" />
   </a>
+
+  <p>
+    <a href="mailto:amiguel.requena@gmail.com"><img src="https://img.shields.io/badge/amiguel.requena%40gmail.com-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9" alt="email" /></a>
+    <a href="https://www.linkedin.com/in/miguel-angel-avila-requena-265267161"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="linkedin" /></a>
+    <a href="https://github.com/pimpledmikey"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=A78BFA" alt="github" /></a>
+    <img src="https://komarev.com/ghpvc/?username=pimpledmikey&style=flat-square&color=4F46E5" alt="views" />
+  </p>
 </div>
 
-<p align="center">
-  <a href="mailto:amiguel.requena@gmail.com"><img src="https://img.shields.io/badge/Email-amiguel.requena%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://github.com/pimpledmikey"><img src="https://img.shields.io/badge/GitHub-pimpledmikey-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/miguel-angel-avila-requena-265267161"><img src="https://img.shields.io/badge/LinkedIn-Miguel%20Angel%20Avila-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Quer%C3%A9taro%2C%20MX-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
-</p>
+### Quién soy
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pimpledmikey&style=for-the-badge&color=6366F1" alt="Profile views" />
-</p>
+Hola, soy **Miguel**. Ingeniero Full Stack en Querétaro con **8+ años** llevando a producción software para finanzas, CRM, RH y operaciones.
+
+No me quedo solo en el código: hablo con el negocio, diseño el flujo, integro APIs y dejo la cosa corriendo en AWS. Últimamente meto **IA aplicada** (RAG, agentes, análisis documental) donde realmente ahorra tiempo.
+
+**Ahora:** Software Developer en Bsystems / DRT Inmobiliaria  
+**Antes:** herramientas de render farm, freelances y backends Node/Python
 
 ---
 
-### Sobre mí
-
-Ingeniero de Software Full Stack con **más de 8 años** construyendo y llevando a producción soluciones web, móviles y empresariales para finanzas, CRM/ventas, RH, soporte y cumplimiento.
-
-Combino **React/Next.js**, **Flutter**, **PHP**, **Python** y **Node.js** con **AWS**, **Docker**, bases de datos e **IA aplicada** para automatizar procesos, integrar plataformas y modernizar sistemas de negocio.
-
-- Plataformas internas: finanzas, CRM, RH, contratos, mesa de ayuda
-- Automatización documental/financiera con APIs, CRON e IA
-- Apps web/móviles con QR, geocercas, offline y sync REST
-- Integraciones: Microsoft 365/Graph, WhatsApp Cloud API, Twilio, Salesforce, GoHighLevel
-- IA: OpenAI, RAG, agentes, embeddings y análisis documental (PLD)
-
----
-
-### Stack
+### Con qué trabajo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,nodejs,python,django,fastapi,php,mysql,postgres,mongo,aws,docker,github" alt="skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter,nodejs,python,fastapi,php,mysql,postgres,mongo,aws,docker,github&theme=dark" alt="stack" />
 </p>
+
+`React` · `Next.js` · `Flutter` · `Node` · `Python` · `PHP` · `AWS` · `Docker` · `OpenAI` · `PostgreSQL` · `MySQL` · `MongoDB`
 
 ---
 
-### Proyectos destacados
+### Lo que he construido
 
-#### Empresariales
+**En la empresa**
 
-| Proyecto | Enfoque |
-| :---: | :--- |
-| **SiGa Finanzas** | Remesas, pagos, caja, reembolsos, reportes y validación bancaria con IA |
-| **Colossus CRM** | Leads, citas, ventas, contratos, cobranza, KPIs e integraciones |
-| **Nexus / Gilneas** | Flutter + QR, geocercas, offline, puntualidad y reportes |
-| **Synapse / PLD** | RAG, agentes, memoria, embeddings y análisis documental |
-| **Meeting Rooms / HELPB** | PWA de salas con Microsoft Graph/365 y automatización de soporte |
+| | |
+|---|---|
+| **SiGa Finanzas** | Remesas, caja, pagos, reembolsos y validación bancaria con IA |
+| **Colossus CRM** | Leads → venta → contrato → cobranza + KPIs |
+| **Nexus / Gilneas** | App Flutter: QR, geocercas, offline, puntualidad |
+| **Synapse / PLD** | RAG + agentes para cumplimiento documental |
+| **Meeting Rooms / HELPB** | Salas y soporte con Microsoft Graph / 365 |
 
-#### Open source / públicos
+**En público**
 
-| Repo | Stack |
-| :---: | :--- |
-| [sagiita-ux](https://github.com/pimpledmikey/sagiita-ux) | TypeScript |
-| [be-exen](https://github.com/pimpledmikey/be-exen) · [Be-exenTY](https://github.com/pimpledmikey/Be-exenTY) | CSS / TypeScript |
-| [cavas](https://github.com/pimpledmikey/cavas) | Dart / Flutter |
-| [Nexus-app-android-flutter](https://github.com/pimpledmikey/Nexus-app-android-flutter) | Flutter / PHP |
-| [security_set_drt](https://github.com/pimpledmikey/security_set_drt) | Dart |
-| [Analisis-Automatizado-de-Tweets](https://github.com/pimpledmikey/Analisis-Automatizado-de-Tweets) | Análisis / automatización |
+- [sagiita-ux](https://github.com/pimpledmikey/sagiita-ux) — TypeScript  
+- [be-exen](https://github.com/pimpledmikey/be-exen) / [Be-exenTY](https://github.com/pimpledmikey/Be-exenTY) — front  
+- [cavas](https://github.com/pimpledmikey/cavas) — Flutter  
+- [Nexus-app-android-flutter](https://github.com/pimpledmikey/Nexus-app-android-flutter) — móvil + PHP  
+- [Analisis-Automatizado-de-Tweets](https://github.com/pimpledmikey/Analisis-Automatizado-de-Tweets) — automatización
 
 ---
 
 ### Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=pimpledmikey&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pimpledmikey&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&ring_color=4F46E5&count_private=true" height="168" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0&langs_count=6" height="168" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pimpledmikey&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pimpledmikey&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pimpledmikey&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=pimpledmikey&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=E2E8F0" alt="streak" />
 </div>
 
 ---
 
-### Ahora en Spotify
+### Ahora suena
 
 <div align="center">
   <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pimpledmike&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify now playing" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pimpledmike&cover_image=true&theme=default&show_offline=true&background_color=0B1220&interchange=false" alt="spotify" />
   </a>
 </div>
 
 ---
 
-### Contribution snake
+### Snake
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pimpledmikey/pimpledmikey/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pimpledmikey/pimpledmikey/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/pimpledmikey/pimpledmikey/output/github-contribution-grid-snake.svg" />
+    <img alt="snake" src="https://raw.githubusercontent.com/pimpledmikey/pimpledmikey/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 ---
 
-### Formación & experiencia
-
-**Ingeniería en Sistemas Computacionales** — Universidad Politécnica de Querétaro (2014–2018)
-
-Certificaciones: Advanced Backend (Node/Express/Docker/Swagger/MongoDB) · PostgreSQL · Node.js Developer
-
-**Software Developer · Full Stack / Enterprise** — Bsystems / DRT Inmobiliaria *(Nov 2020 – Presente)*
-
----
-
-<p align="center">
-  <i>¿Hablamos de un proyecto?</i><br/>
-  <a href="mailto:amiguel.requena@gmail.com">amiguel.requena@gmail.com</a>
-  ·
-  <a href="https://www.linkedin.com/in/miguel-angel-avila-requena-265267161">LinkedIn</a>
-</p>
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:6366F1,100:0EA5E9&height=120&section=footer" width="100%" alt="footer" />
+
+**UPQ** · Ingeniería en Sistemas (2014–2018)  
+Backend Node/Docker · PostgreSQL · Node.js Developer
+
+[Email](mailto:amiguel.requena@gmail.com) · [LinkedIn](https://www.linkedin.com/in/miguel-angel-avila-requena-265267161) · [GitHub](https://github.com/pimpledmikey)
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0E7490&height=100&section=footer" width="100%" alt="footer" />
 </div>
