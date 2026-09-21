@@ -93,10 +93,11 @@ Combino **React/Next.js**, **Flutter**, **PHP**, **Python** y **Node.js** con **
 
 <div align="center">
   <a href="https://spotify-github-profile.kittinanx.com/api/login">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=PLACEHOLDER&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_radius=12&bar_color=6366F1" alt="spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=PLACEHOLDER_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_radius=12&bar_color=6366F1" alt="spotify now playing" />
   </a>
-  <p><sub>Conecta Spotify una vez → <a href="https://spotify-github-profile.kittinanx.com/api/login">autorizar aquí</a> → pásame tu <code>uid</code> y lo dejo permanente.</sub></p>
 </div>
+
+> **Para activarlo:** abre [este login](https://spotify-github-profile.kittinanx.com/api/login), autoriza Spotify, copia el `uid` de la URL que te da y pégamelo aquí. En segundos queda fijo en el perfil.
 
 ---
 
