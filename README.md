@@ -92,12 +92,10 @@ Combino **React/Next.js**, **Flutter**, **PHP**, **Python** y **Node.js** con **
 ### Ahora en Spotify
 
 <div align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/login">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=PLACEHOLDER_UID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&border_radius=12&bar_color=6366F1" alt="spotify now playing" />
+  <a href="https://open.spotify.com/">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pimpledmike&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify now playing" />
   </a>
 </div>
-
-> **Para activarlo:** abre [este login](https://spotify-github-profile.kittinanx.com/api/login), autoriza Spotify, copia el `uid` de la URL que te da y pégamelo aquí. En segundos queda fijo en el perfil.
 
 ---
 
