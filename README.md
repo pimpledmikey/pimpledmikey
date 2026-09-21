@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,40:0E7490,70:4F46E5,100:7C3AED&height=200&section=header&text=Miguel%20Angel%20Avila%20Requena&fontSize=42&fontColor=F8FAFC&fontAlignY=40&desc=Full%20Stack%20%7C%20IA%20aplicada%20%7C%20Cloud%20%7C%20Quer%C3%A9taro%2C%20MX&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C1917,35:EA580C,70:F97316,100:FBBF24&height=200&section=header&text=Miguel%20Angel%20Avila%20Requena&fontSize=42&fontColor=FFF7ED&fontAlignY=40&desc=Full%20Stack%20%7C%20IA%20aplicada%20%7C%20Cloud%20%7C%20Quer%C3%A9taro%2C%20MX&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="header" />
 
   <a href="https://github.com/pimpledmikey">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=67E8F9&center=true&vCenter=true&width=700&height=45&lines=Construyo+sistemas+que+la+gente+usa+todos+los+d%C3%ADas;React+%2B+Flutter+%2B+Node+%2B+Python+%2B+AWS;De+la+idea+a+producci%C3%B3n+%E2%80%94+con+IA+cuando+suma" alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=FB923C&center=true&vCenter=true&width=700&height=45&lines=Construyo+sistemas+que+la+gente+usa+todos+los+d%C3%ADas;React+%2B+Flutter+%2B+Node+%2B+Python+%2B+AWS;De+la+idea+a+producci%C3%B3n+%E2%80%94+con+IA+cuando+suma" alt="typing" />
   </a>
 
   <p>
-    <a href="mailto:amiguel.requena@gmail.com"><img src="https://img.shields.io/badge/amiguel.requena%40gmail.com-0B1220?style=flat-square&logo=gmail&logoColor=67E8F9" alt="email" /></a>
-    <a href="https://www.linkedin.com/in/miguel-angel-avila-requena-265267161"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=flat-square&logo=linkedin&logoColor=67E8F9" alt="linkedin" /></a>
-    <a href="https://github.com/pimpledmikey"><img src="https://img.shields.io/badge/GitHub-0B1220?style=flat-square&logo=github&logoColor=A78BFA" alt="github" /></a>
-    <img src="https://komarev.com/ghpvc/?username=pimpledmikey&style=flat-square&color=4F46E5" alt="views" />
+    <a href="mailto:amiguel.requena@gmail.com"><img src="https://img.shields.io/badge/amiguel.requena%40gmail.com-1C1917?style=flat-square&logo=gmail&logoColor=FB923C" alt="email" /></a>
+    <a href="https://www.linkedin.com/in/miguel-angel-avila-requena-265267161"><img src="https://img.shields.io/badge/LinkedIn-1C1917?style=flat-square&logo=linkedin&logoColor=FB923C" alt="linkedin" /></a>
+    <a href="https://github.com/pimpledmikey"><img src="https://img.shields.io/badge/GitHub-1C1917?style=flat-square&logo=github&logoColor=FDBA74" alt="github" /></a>
+    <img src="https://komarev.com/ghpvc/?username=pimpledmikey&style=flat-square&color=EA580C" alt="views" />
   </p>
 </div>
 
@@ -59,12 +59,12 @@ No me quedo solo en el código: hablo con el negocio, diseño el flujo, integro 
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pimpledmikey&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=A78BFA&text_color=E2E8F0&ring_color=4F46E5&count_private=true" height="168" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0&langs_count=6" height="168" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pimpledmikey&show_icons=true&hide_border=true&bg_color=1C1917&title_color=FB923C&icon_color=FDBA74&text_color=FED7AA&ring_color=EA580C&count_private=true" height="168" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pimpledmikey&layout=compact&hide_border=true&bg_color=1C1917&title_color=FB923C&text_color=FED7AA&langs_count=6" height="168" alt="langs" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pimpledmikey&hide_border=true&background=0B1220&ring=22D3EE&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=94A3B8&dates=64748B&currStreakNum=F8FAFC&sideNums=E2E8F0" alt="streak" />
+  <img src="https://streak-stats.demolab.com?user=pimpledmikey&hide_border=true&background=1C1917&ring=F97316&fire=FB923C&currStreakLabel=FDBA74&sideLabels=A8A29E&dates=78716C&currStreakNum=FFF7ED&sideNums=FED7AA" alt="streak" />
 </div>
 
 ---
@@ -73,7 +73,7 @@ No me quedo solo en el código: hablo con el negocio, diseño el flujo, integro 
 
 <div align="center">
   <a href="https://open.spotify.com/">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pimpledmike&cover_image=true&theme=default&show_offline=true&background_color=0B1220&interchange=false" alt="spotify" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=pimpledmike&cover_image=true&theme=default&show_offline=true&background_color=1C1917&bar_color=F97316&interchange=false" alt="spotify" />
   </a>
 </div>
 
@@ -98,5 +98,5 @@ Backend Node/Docker · PostgreSQL · Node.js Developer
 
 [Email](mailto:amiguel.requena@gmail.com) · [LinkedIn](https://www.linkedin.com/in/miguel-angel-avila-requena-265267161) · [GitHub](https://github.com/pimpledmikey)
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:4F46E5,100:0E7490&height=100&section=footer" width="100%" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FBBF24,50:F97316,100:EA580C&height=100&section=footer" width="100%" alt="footer" />
 </div>
